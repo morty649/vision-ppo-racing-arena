@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+runs/
+student_starter/checkpoints/*.pt
+student_starter/videos/
